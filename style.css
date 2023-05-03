@@ -51,7 +51,7 @@ span {
 }
 
 .tile-image {
-  width: 90%;
+  min-width: 50%;
 }
 
 .card-title {
@@ -59,7 +59,7 @@ span {
 }
 
 .card-text {
-  width: 72%;
+  min-width: 70%;
   line-height: 1.5rem;
 }
 
