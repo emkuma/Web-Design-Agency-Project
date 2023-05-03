@@ -75,8 +75,7 @@ footer {
 
 @media (min-width: 481px) and (max-width: 1200px) {
   .left, .right {
-    display: flex;
-    flex-direction: column;
+    display: block;
   }
 }
 
@@ -88,7 +87,7 @@ footer {
   }
 
   h1 {
-    font-size: 2rem;
+    font-size: 3rem;
     font-weight: 400;
   }
 }
